@@ -1,0 +1,53 @@
+.main-bg{
+	background-color: rgb(117,0,0)
+}
+
+.jumbotron{
+	background: url("https://s3.amazonaws.com/tjn-blog-images/wp-content/uploads/2016/12/16010940/professional-background.jpg");
+	background-size: cover;
+	height: 750px;
+}
+
+#box-1{
+	padding:10%;
+}
+
+.jumbotron h1 {
+	color:yellow;
+}
+
+.jumbotron hr {
+	width:30%;
+}
+
+.jumbotron p {
+	color:white;
+}
+
+.btn-login{
+
+	color:black;
+	background: rgba(0,0,0,0.3);
+}
+
+#features {
+	background-color: rgb(235,240,244);
+	color:rgb(91,113,131);
+}
+
+.blue-light{
+	background-color: rgb(71,198,221);
+}
+
+.green-light{
+	background-color: rgb(122, 205, 190);
+}
+
+.red-light{
+	background-color: rgb(225,85,109);
+}
+
+footer i {
+	font-size: 2.0em;
+	margin-right: 5%;
+}
